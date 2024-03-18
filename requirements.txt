@@ -1,0 +1,6 @@
+einops==0.7.0
+opencv-python==4.8.1.78
+tqdm==4.66.1
+pyiqa==0.1.8
+wandb==0.16.0
+Levenshtein==0.23.0
