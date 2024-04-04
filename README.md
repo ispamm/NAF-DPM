@@ -17,10 +17,11 @@ This is the official repository for the paper [NAF-DPM: A Nonlinear Activation-F
 by treating them as a conditional image-to-image translation
 problem (please refer to the [paper](PAPER LINK)). It can be used for tasks such as document deblurring, denoising, binarization, etc. 
 
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ispamm/NAF-DPM)
 </div>
 
 <hr />
+
 ## Highlights
 
 **<p align="justify"> Abstract:** *Real-world documents often suffer from various forms of degradation, which can lead to lower accuracy in optical character recognition (OCR) systems. Therefore, a crucial preprocessing step is essential to eliminate noise while preserving text and key features of the documents. In this paper, we propose a novel generative framework based on a diffusion probabilistic model (DPM) designed to restore the original quality of degraded documents. While DPMs are recognized for their high-quality generated images, they are also known for their large inference time. To mitigate this problem, we address both the architecture design and sampling strategy. To this end, we provide the DPM with an efficient nonlinear activation-free (NAF) network, which also proves to be very effective in image restoration tasks. For the sampling strategy, we employ a fast solver of ordinary differential equations, which is able to converge in 20 iterations at most. The combination of a small number of parameters (only 9.4M), an efficient network and a fast sampling strategy allow us to achieve competitive inference time with respect to existing methods.
@@ -33,7 +34,7 @@ and perceptual similarity metrics% (LPIPS and DISTS)
 
 ## Results
 ### NAF-DPM in comparison with existing methods
-Results reported below show performance of different methods on the Blurry Document Images (BMVC) OCR Text Dataset (https://www.fit.vutbr.cz/~ihradis/CNN-Deblur/) for PSNR, SSIM, LPIPS, DISTS and CER metrics .
+Results reported below show performance of different methods on the Blurry Document Images OCR Text Dataset (https://www.fit.vutbr.cz/~ihradis/CNN-Deblur/) for PSNR, SSIM, LPIPS, DISTS and CER metrics .
 
 | Name                                                      | PSNR | SSIM |   LPIPS    | DISTS | CER |
 |-----------------------------------------------------------|:---------:|:----------:|:---------:|:------:|:------:|
@@ -54,7 +55,7 @@ Results reported below show performance of different methods on DIBCO2019 for PS
 | [DE-GAN] |   12.29   |   55.98    |   53.44   |    
 | [D^2BFormer] |   15.05   |   67.63    |   66.69   |  
 | [DocDiff] |   15.14   |   73.38    |   75.12   |   
-| [NAF-DPM (ours)](link) |   **15.39**   | **74.52**  | **76.25** |
+| [NAF-DPM (ours)](link) |   **15.39**   | **74.61**  | **76.25** |
 
 
 
