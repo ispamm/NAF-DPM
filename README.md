@@ -17,7 +17,7 @@ This is the official repository for the paper [NAF-DPM: A Nonlinear Activation-F
 by treating them as a conditional image-to-image translation
 problem (please refer to the [paper](PAPER LINK)). It can be used for tasks such as document deblurring, denoising, binarization, etc. 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ispamm/NAF-DPM)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fispamm%2FNAF-DPM%2Ftree%2Fmain&label=VISITORS&countColor=%23263759)
 </div>
 
 <hr />
