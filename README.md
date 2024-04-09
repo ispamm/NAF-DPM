@@ -14,8 +14,7 @@
 
 
 This is the official repository for the paper [NAF-DPM: A Nonlinear Activation-Free Diffusion Probabilistic Model for Document Enhancement](https://arxiv.org/abs/2404.05669). NAF-DPM is a novel generative framework based on DPMs that solves document enhancement tasks
-by treating them as a conditional image-to-image translation
-problem (please refer to the [paper](PAPER LINK)). It can be used for tasks such as document deblurring, denoising, binarization, etc.
+by treating them as a conditional image-to-image translation problem. It can be used for tasks such as document deblurring, denoising, binarization, etc.
 Actually paper under review at IEEE Transactions on Pattern Analysis and Machine Intelligence.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fispamm%2FNAF-DPM%2Ftree%2Fmain&label=VISITORS&countColor=%23263759)
