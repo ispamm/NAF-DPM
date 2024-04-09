@@ -9,13 +9,14 @@
 
 # NAF-DPM:  Nonlinear Activation-Free Diffusion Probabilistic Model for Document Enhancement
 
-> [**NAF-DPM:  Nonlinear Activation-Free Diffusion Probabilistic Model for Document Enhancement**](LINK PAPER)<br>
+> [**NAF-DPM:  Nonlinear Activation-Free Diffusion Probabilistic Model for Document Enhancement**](https://arxiv.org/abs/2404.05669)<br>
 > [Giordano Cicchetti](https://www.linkedin.com/in/giordano-cicchetti-1ab73b258/), [Danilo Comminiello](https://scholar.google.com/citations?user=H3Y52cMAAAAJ&hl=en)
 
 
-This is the official repository for the paper [NAF-DPM: A Nonlinear Activation-Free Diffusion Probabilistic Model for Document Enhancement](LINK PAPER). NAF-DPM is a novel generative framework based on DPMs that solves document enhancement tasks
+This is the official repository for the paper [NAF-DPM: A Nonlinear Activation-Free Diffusion Probabilistic Model for Document Enhancement](https://arxiv.org/abs/2404.05669). NAF-DPM is a novel generative framework based on DPMs that solves document enhancement tasks
 by treating them as a conditional image-to-image translation
-problem (please refer to the [paper](PAPER LINK)). It can be used for tasks such as document deblurring, denoising, binarization, etc. 
+problem (please refer to the [paper](PAPER LINK)). It can be used for tasks such as document deblurring, denoising, binarization, etc.
+Actually paper under review at IEEE Transactions on Pattern Analysis and Machine Intelligence.
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fispamm%2FNAF-DPM%2Ftree%2Fmain&label=VISITORS&countColor=%23263759)
 </div>
@@ -155,7 +156,14 @@ MODE=1 is for training, MODE=0 is for inference, MODE=2 is for finetuning (only 
 if you find our work useful and if you want to use NAF-DPM as the baseline for your project, please give us a star and cite our paper. Thank you! 🤞😘
 
 ```
-
+@misc{cicchetti2024nafdpm,
+      title={NAF-DPM: A Nonlinear Activation-Free Diffusion Probabilistic Model for Document Enhancement}, 
+      author={Giordano Cicchetti and Danilo Comminiello},
+      year={2024},
+      eprint={2404.05669},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 For any doubt and question, please send an email to **giordano.cicchetti@uniroma1.it** with the subject "**NAFDPM**" or eventually you can open an issue. We will reply as soon as possible.
