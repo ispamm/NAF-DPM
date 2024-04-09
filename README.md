@@ -18,7 +18,7 @@ by treating them as a conditional image-to-image translation problem. It can be 
 Actually paper under review at IEEE Transactions on Pattern Analysis and Machine Intelligence.
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2404.05669)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fispamm%2FNAF-DPM%2Ftree%2Fmain&label=VISITORS&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fispamm%2FNAF-DPM%2Ftree%2Fmain&label=VISITORS&countColor=%23263759)
 </div>
 
 <hr />
