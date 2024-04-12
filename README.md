@@ -19,8 +19,14 @@ Actually paper under review at IEEE Transactions on Pattern Analysis and Machine
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2404.05669)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fispamm%2FNAF-DPM%2Ftree%2Fmain&label=VISITORS&countColor=%23263759)
-</div>
 
+Binarization results:
+
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/naf-dpm-a-nonlinear-activation-free-diffusion/binarization-on-dibco-2019)](https://paperswithcode.com/sota/binarization-on-dibco-2019?p=naf-dpm-a-nonlinear-activation-free-diffusion)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/naf-dpm-a-nonlinear-activation-free-diffusion/binarization-on-dibco-2017)](https://paperswithcode.com/sota/binarization-on-dibco-2017?p=naf-dpm-a-nonlinear-activation-free-diffusion)
+</div>
 <hr />
 
 ## Highlights
