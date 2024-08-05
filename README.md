@@ -85,7 +85,7 @@ pip3 install torch torchvision torchaudio
 * Clone NAFDPM code repository and install requirements
 ```bash
 # Clone NAFDPM code base
-git clone https://github.com/Giordano-Cicchetti/Diffusion-Document-Enhancement.git
+git clone https://github.com/ispamm/NAF-DPM.git
 
 cd Diffusion-Document-Enhancement/
 # Install requirements
